@@ -13,6 +13,3 @@ Este e o meu primeiro repositorio que enviei para o github.
 
 ## Como baixar projetos
 Abrir o **CMD** e digitar `git clone [link do repositorio]`
-=======
-<img width="200" height="199" alt="image" src="https://github.com/user-attachments/assets/13dd4c18-a529-426c-b690-3683af0de135" />
->>>>>>> c2056f40fbe6637cdfa469860a6d7e9be8dffaae
