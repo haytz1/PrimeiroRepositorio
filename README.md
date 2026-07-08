@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Meu primeiro repositorio
 Este e o meu primeiro repositorio que enviei para o github.
 
